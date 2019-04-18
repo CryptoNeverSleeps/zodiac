@@ -1,0 +1,11 @@
+[Protocol]
+exec=zodiac-qt '%u'
+protocol=zodiac
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Zodiac
+Comment=Zodiac P2P Cryptocurrency
+Comment[fr]=Zodiac, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Zodiac, eşten eşe kriptografik sanal para birimi
+Exec=zodiac-qt %u
+Terminal=false
+Type=Application
+Icon=zodiac128
+MimeType=x-scheme-handler/zodiac;
+Categories=Office;Finance;
