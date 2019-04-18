@@ -1,0 +1,1 @@
+qt/qt_libbitcoinqt_a-qrc_zodiac.o: qt/qrc_zodiac.cpp
